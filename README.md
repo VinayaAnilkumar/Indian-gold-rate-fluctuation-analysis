@@ -40,6 +40,6 @@ Instead of relying on a single flat file, this project implements a **3-table St
 
 ## 📂 Repository Structure
 * `1_gold_etl_and_modeling.ipynb` — Python script for data cleaning, feature engineering, and SQLite loading.
-* `2_gold_warehouse_queries.sql` — SQL `JOIN` queries for seasonal and yearly volatility analysis.
-* `3_Gold_Rate_Dashboard.pbix` — Interactive Power BI report with Star Schema data model and DAX measures.
-* `gold_dashboard_preview.png` — High-resolution preview of the final executive dashboard.
+* `2_gold_warehouse_analysis.sql` — SQL `JOIN` queries for seasonal and yearly volatility analysis.
+* `3_Gold_Fluctuation_Analysis.pbix` — Interactive Power BI report with Star Schema data model and DAX measures.
+* `gold_fluctuation_analysis.png` — High-resolution preview of the final executive dashboard.
